@@ -9,7 +9,7 @@ const App = () => {
     <>
       <Router>
         <GlobalStyles />
-        <Games data={data} heading="Choose Your Favorite Game" />
+        <Games data={data} heading="9ijakids Game List" />
         <Footer />
       </Router>
     </>

@@ -99,6 +99,7 @@ const Game = ({ heading, data }) => {
                     type="text"
                     onChange={searching}
                     placeholder="Search Games by Topics"
+
                 />
                 <SearchIcon />
                 <FilterIcon onClick={toggle} />
